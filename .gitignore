@@ -6,8 +6,8 @@ Debug/
 #release directory
 Release/
 
-Shut_Down.opt
-Shut_Down.plg
-ShutDown.aps
-Shut_Down.ncb
+*.opt
+*.plg
+*.aps
+*.ncb
 
